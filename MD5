@@ -1,0 +1,17 @@
+df49a3f83e9cc6eef4795a7cafb6a010 *DESCRIPTION
+bc28e2ebfd05391bb8eb04b4a1345463 *NAMESPACE
+750835ff2541d102826288d765622438 *R/canadamaps-package.R
+8e890c52f562dd4218e59533553b2824 *R/data.R
+5e6eed5f767b8ef6313e2ceaf151e625 *R/get_agricultural_divisions.R
+3aa005a457f9eb2bca65221d8d718dfb *R/get_economic_regions.R
+c150b846ed688526f3c0f4062611beef *R/get_provinces.R
+d301bd2b8b39264c3a78bd1ba732d447 *R/sysdata.rda
+b56ff2b193ecba52f9ec7f3b10cca008 *R/utils-pipe.R
+2de291421631b7e654335ff4655e7422 *data/census_divisions.rda
+75b36f09c64563f61377f6001b013306 *data/federal_electoral_districts.rda
+1b46328bba7f4e608a275c2024457d04 *man/census_divisions.Rd
+45d53beb075984fc4a50c1369ad026cb *man/federal_electoral_districts.Rd
+387b7a3946f015820ab6228c0c3a39a8 *man/get_agricultural_divisions.Rd
+167c663cdf60b512c337fa9f21d9ae64 *man/get_economic_regions.Rd
+a713416d4d7f8d97bba05dda11bfdf56 *man/get_provinces.Rd
+774d9de8e95aa151215efcd304549d41 *man/pipe.Rd
